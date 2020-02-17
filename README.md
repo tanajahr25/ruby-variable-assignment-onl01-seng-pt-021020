@@ -35,10 +35,13 @@ To solve this test failure, create a local variable `greeting` in the `variable.
 * [Introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-variable-assignment' title='Variable Assignment'>Variable Assignment</a> on Learn.co and start learning to code for free.</p>
+<<<<<<< HEAD
 greeting = "Hello World"
 greeting 
 ```
 greeting = "Hello World
 
 greeting = "Hello World"
+=======
+>>>>>>> a878b248925c31a3b2a5dd0044a9c97d62adee20
 greeting = "Hello World"
